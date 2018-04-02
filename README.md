@@ -1,6 +1,6 @@
 # Summary
 
-... 1-2 sentences (see http://universaldependencies.org/release_checklist.html#the-readme-file for README guidelines) ...
+Examples from Modern Kannada Grammar by S.N.Sridhar.
 
 # Introduction
 
@@ -19,12 +19,12 @@
 Data available since: UD v2.2
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: nonfiction news
-Lemmas: converted from manual
-UPOS: converted from manual
-XPOS: manual native
-Features: converted from manual
-Relations: converted from manual
+Genre: grammar-examples
+Lemmas: not available
+UPOS: manual native
+XPOS: not available
+Features: manual native
+Relations: manual native
 Contributors: Rama, Taraka; Vajjala, Sowmya
 Contributing: elsewhere
 Contact: tarakark@ifi.uio.no, sowmya@iastate.edu
